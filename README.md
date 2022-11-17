@@ -16,5 +16,5 @@ LCD TFT 144:
   
 Camara module OV7674:
   
-![](imagens/OV7670module.PNG)
-<img src = "imagens/OV7670module.PNG" width = "100" >
+
+<img src = "imagens/OV7670module.PNG" width = "600" >

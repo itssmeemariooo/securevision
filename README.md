@@ -3,6 +3,11 @@ The github repository will serve to save all the code made in the project.
 Made by Mário Costa and Bruno Silva
 LEEC students
 
+Project Desing :
+
+<img src = "imagens/DesignSecureVision.JPG width = "400" >
+
+
 Project installation : 
 
 LCD TFT 144:
@@ -16,5 +21,7 @@ LCD TFT 144:
   
 Camara module OV7674:
   
+<img src = "imagens/OV7670module.PNG" width = "400" >
 
-<img src = "imagens/OV7670module.PNG" width = "600" >
+ESP8266 ESP-01:
+

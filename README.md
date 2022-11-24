@@ -5,7 +5,7 @@ LEEC students
 
 Project Desing :
 
-<img src = "imagens/DesignSecureVision.JPG" width = "400" >
+<img src = "imagens/indice.PNG" width = "400" >
 
 
 Project installation : 

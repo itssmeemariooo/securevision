@@ -3,7 +3,7 @@ The github repository will serve to save all the code made in the project.
 Made by Mário Costa and Bruno Silva
 LEEC students
 
-Project Desing :
+Project Design :
 
 <img src = "imagens/indice.png" width = "400" >
 
